@@ -1,0 +1,331 @@
+[
+  {
+    "uuid": "eb6be9d3-4b4c-4600-9e41-cb5873ffd486",
+    "title": "My Size : Other Report or Announcement",
+    "description": "Newsmax's National Report Interviews MySize CEO Ronen Luzon\n      \n      \n        See the interview here: LINK\n      \n      \n        AIRPORT CITY, Israel - December 23, 2022 - MySize,... | December 23,  2022",
+    "keywords": "MY SIZE, INC. stock exchange, news, information, press release, national, report, interviews, mysize, ceo, ronen, see, the, interview, airport, israel, december, 2022 | MYSZ | US62844N3070",
+    "snippet": "Newsmax's National Report Interviews MySize CEO Ronen Luzon\n\nSee the interview here: LINK\n\nAIRPORT CITY, Israel - December 23, 2022 - MySize, Inc. (NASDAQ: MYSZ...",
+    "url": "https://www.marketscreener.com/quote/stock/MY-SIZE-INC-120961728/news/My-Size-Other-Report-or-Announcement-42612686/",
+    "image_url": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+    "language": "en",
+    "published_at": "2022-12-23T15:16:08.000000Z",
+    "source": "marketscreener.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 14.290648,
+        "sentiment_score": 0.4939,
+        "highlights": [
+          {
+            "highlight": "Orgad, its online retailer platform, has expertise in e-commerce, supply chain, and technology operating as a third-party seller on <em>Amazon.com</em> and other sites. MySize recently launched FirstLook Smart Mirror, a mirror-like touch display that provides in-store customers an enhanced shopping experience and contactless checkout.",
+            "sentiment": 0.4939,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "578b9555-d87c-4e51-a75a-67d97ebebc66",
+    "title": "Do They Know It’s Christmas?",
+    "description": "Moving into Friday, the Nasdaq 100 is down 2.5% for the week, while the S&P 500 is off less than 1%.",
+    "keywords": "Tesla, Christmas, Elon Musk, Amazon, Festivus, Apple, Google, Hanukkah, stocks, interest rates",
+    "snippet": "Markets have been less than merry this year, but maybe that can change as we look forward to 2023.. ... [+] (Photo by Andrew Burton/Getty Images) Getty Images\n\n...",
+    "url": "https://www.forbes.com/sites/jjkinahan/2022/12/23/do-they-know-its-christmas/",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/63a5c0b6a2398f7b72cc731e/0x0.jpg?format=jpg&width=1200",
+    "language": "en",
+    "published_at": "2022-12-23T14:58:30.000000Z",
+    "source": "forbes.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 12.775888,
+        "sentiment_score": -0.2263,
+        "highlights": [
+          {
+            "highlight": "Market leaders such as <em>Tesla</em> and Amazon AMZN are sitting at 52-week lows, while Google GOOG parent, Alphabet, is within striking distance of its lows for the year.",
+            "sentiment": -0.2263,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "d4713405-8c0d-4935-b175-851f3792f563",
+    "title": "Media mogul Michael Bloomberg looking to buy Dow Jones or Washington Post- Axios",
+    "description": "Billionaire Michael Bloomberg, the owner of Bloomberg L.P., is interested in acquiring either Wall Street Journal parent Dow Jones or the Washington Post, news…",
+    "keywords": "",
+    "snippet": "Such a merger would create a financial data and news giant, further firming up the world’s 12th richest man’s strong hold on the business and likely allowin...",
+    "url": "https://financialpost.com/pmn/business-pmn/media-mogul-michael-bloomberg-looking-to-buy-dow-jones-or-washington-post-axios",
+    "image_url": "https://dcs-static.gprod.postmedia.digital/12.5.3/websites/images/fp/favicon-fp.ico",
+    "language": "en",
+    "published_at": "2022-12-23T14:55:44.000000Z",
+    "source": "financialpost.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 19.573097,
+        "sentiment_score": 0.7579,
+        "highlights": [
+          {
+            "highlight": "Article content\n\nAccording to the Axios report, Bloomberg sees News Corp-owned Dow Jones, also the publisher of Barron’s and MarketWatch, as the ideal fit but would buy the Post if <em>Amazon.com</em> <em>Inc</em> founder Jeff Bezos was interested in selling.",
+            "sentiment": 0.7579,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "eb6be9d3-4b4c-4600-9e41-cb5873ffd486",
+    "title": "My Size : Other Report or Announcement",
+    "description": "Newsmax's National Report Interviews MySize CEO Ronen Luzon\n      \n      \n        See the interview here: LINK\n      \n      \n        AIRPORT CITY, Israel - December 23, 2022 - MySize,... | December 23,  2022",
+    "keywords": "MY SIZE, INC. stock exchange, news, information, press release, national, report, interviews, mysize, ceo, ronen, see, the, interview, airport, israel, december, 2022 | MYSZ | US62844N3070",
+    "snippet": "Newsmax's National Report Interviews MySize CEO Ronen Luzon\n\nSee the interview here: LINK\n\nAIRPORT CITY, Israel - December 23, 2022 - MySize, Inc. (NASDAQ: MYSZ...",
+    "url": "https://www.marketscreener.com/quote/stock/MY-SIZE-INC-120961728/news/My-Size-Other-Report-or-Announcement-42612686/",
+    "image_url": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+    "language": "en",
+    "published_at": "2022-12-23T15:16:08.000000Z",
+    "source": "marketscreener.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 14.290648,
+        "sentiment_score": 0.4939,
+        "highlights": [
+          {
+            "highlight": "Orgad, its online retailer platform, has expertise in e-commerce, supply chain, and technology operating as a third-party seller on <em>Amazon.com</em> and other sites. MySize recently launched FirstLook Smart Mirror, a mirror-like touch display that provides in-store customers an enhanced shopping experience and contactless checkout.",
+            "sentiment": 0.4939,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "578b9555-d87c-4e51-a75a-67d97ebebc66",
+    "title": "Do They Know It’s Christmas?",
+    "description": "Moving into Friday, the Nasdaq 100 is down 2.5% for the week, while the S&P 500 is off less than 1%.",
+    "keywords": "Tesla, Christmas, Elon Musk, Amazon, Festivus, Apple, Google, Hanukkah, stocks, interest rates",
+    "snippet": "Markets have been less than merry this year, but maybe that can change as we look forward to 2023.. ... [+] (Photo by Andrew Burton/Getty Images) Getty Images\n\n...",
+    "url": "https://www.forbes.com/sites/jjkinahan/2022/12/23/do-they-know-its-christmas/",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/63a5c0b6a2398f7b72cc731e/0x0.jpg?format=jpg&width=1200",
+    "language": "en",
+    "published_at": "2022-12-23T14:58:30.000000Z",
+    "source": "forbes.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 12.775888,
+        "sentiment_score": -0.2263,
+        "highlights": [
+          {
+            "highlight": "Market leaders such as <em>Tesla</em> and Amazon AMZN are sitting at 52-week lows, while Google GOOG parent, Alphabet, is within striking distance of its lows for the year.",
+            "sentiment": -0.2263,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "d4713405-8c0d-4935-b175-851f3792f563",
+    "title": "Media mogul Michael Bloomberg looking to buy Dow Jones or Washington Post- Axios",
+    "description": "Billionaire Michael Bloomberg, the owner of Bloomberg L.P., is interested in acquiring either Wall Street Journal parent Dow Jones or the Washington Post, news…",
+    "keywords": "",
+    "snippet": "Such a merger would create a financial data and news giant, further firming up the world’s 12th richest man’s strong hold on the business and likely allowin...",
+    "url": "https://financialpost.com/pmn/business-pmn/media-mogul-michael-bloomberg-looking-to-buy-dow-jones-or-washington-post-axios",
+    "image_url": "https://dcs-static.gprod.postmedia.digital/12.5.3/websites/images/fp/favicon-fp.ico",
+    "language": "en",
+    "published_at": "2022-12-23T14:55:44.000000Z",
+    "source": "financialpost.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 19.573097,
+        "sentiment_score": 0.7579,
+        "highlights": [
+          {
+            "highlight": "Article content\n\nAccording to the Axios report, Bloomberg sees News Corp-owned Dow Jones, also the publisher of Barron’s and MarketWatch, as the ideal fit but would buy the Post if <em>Amazon.com</em> <em>Inc</em> founder Jeff Bezos was interested in selling.",
+            "sentiment": 0.7579,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "3a2e3243-13ea-4067-8863-cd64963ff477",
+    "title": "It was the end of easy money that took the shine off tech in 2022",
+    "description": "City comment: After a period of naïve optimism and financial malpractice, it’s time for the tech sector to snap back to reality",
+    "keywords": "Tech, City, optimism, crypto",
+    "snippet": "T he arrest of FTX Founder Sam Bankman-Fried is surely the apotheosis of a hellish year for the tech sector, and crypto in particular.\n\nYet just eighteen months...",
+    "url": "https://www.standard.co.uk/business/it-was-the-end-of-easy-money-that-took-the-shine-off-tech-in-2022-b1049200.html",
+    "image_url": "https://static.standard.co.uk/2022/10/20/18/City_voices_thumb.jpg?width=1200&width=1200&auto=webp&quality=75",
+    "language": "en",
+    "published_at": "2022-12-23T14:44:01.000000Z",
+    "source": "standard.co.uk",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Technology",
+        "match_score": 8.638939,
+        "sentiment_score": -0.8402,
+        "highlights": [
+          {
+            "highlight": "Despite the addition of Apple, Nvidia, <em>Microsoft</em> and Tesla to the old gang, MANNGMAT struggled to catch on and the companies’ fortunes soon turned. And badly.\n\nMicrosoft’s share price is down 25% since late 2021 and Nvidia’s has fallen by nearly half. ‘Meta’, the new Facebook, is the pick of the bunch with an eye watering 65% collapse.",
+            "sentiment": -0.8402,
+            "highlighted_in": "main_text"
+          }
+        ]
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 9.202345,
+        "sentiment_score": -0.8402,
+        "highlights": [
+          {
+            "highlight": "Despite the addition of Apple, Nvidia, Microsoft and <em>Tesla</em> to the old gang, MANNGMAT struggled to catch on and the companies’ fortunes soon turned. And badly.\n\nMicrosoft’s share price is down 25% since late 2021 and Nvidia’s has fallen by nearly half. ‘Meta’, the new Facebook, is the pick of the bunch with an eye watering 65% collapse.",
+            "sentiment": -0.8402,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "5042d143-91f5-4c73-aecc-f6e17a41186c",
+    "title": "Newsmax's National Report Interviews MySize CEO Ronen Luzon",
+    "description": "/PRNewswire/ -- MySize, Inc. (NASDAQ: MYSZ) (TASE: MYSZ.TA) (\"MySize\" or the \"Company\"), an omnichannel e-commerce platform and provider of AI-driven...",
+    "keywords": "My Size, Inc.",
+    "snippet": "See the interview here: LINK\n\nAIRPORT CITY, Israel, Dec. 23, 2022 /PRNewswire/ -- MySize, Inc. (NASDAQ: MYSZ) (TASE: MYSZ.TA) (\"MySize\" or the \"Company\"), an om...",
+    "url": "https://www.prnewswire.com:443/news-releases/newsmaxs-national-report-interviews-mysize-ceo-ronen-luzon-301709671.html",
+    "image_url": "https://mma.prnewswire.com/media/1973945/MySize__Logo.jpg?p=facebook",
+    "language": "en",
+    "published_at": "2022-12-23T14:30:00.000000Z",
+    "source": "prnewswire.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 11.860319,
+        "sentiment_score": 0.4939,
+        "highlights": [
+          {
+            "highlight": "Orgad, its online retailer platform, has expertise in e-commerce, supply chain, and technology operating as a third-party seller on <em>Amazon.com</em> and other sites. MySize recently launched FirstLook Smart Mirror, a mirror-like touch display that provides in-store customers an enhanced shopping experience and contactless checkout.",
+            "sentiment": 0.4939,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  },
+  {
+    "uuid": "bf3f3d09-f001-4d70-906c-698575e41e2a",
+    "title": "US STOCKS-Wall St set to slip at open as investors assess inflation data",
+    "description": "Wall Street's main indexes were set to open slightly lower in choppy trading on Friday after data showed inflation cooled further in November, but not enough to discourage the Federal Reserve from driving interest rates to higher levels next year.  The personal consumption expenditures (PCE) price index, the Fed's preferred inflation gauge, rose 0.1% last month after climbing 0.4% in October.  In the 12 months through November, the PCE price index increased 5.5% after advancing 6.1% in October.",
+    "keywords": "",
+    "snippet": "(For a Reuters live blog on U.S., UK and European stock markets, click or type LIVE/ in a news window)\n\n*\n\nU.S. consumer spending, inflation slow in November\n\n*...",
+    "url": "https://finance.yahoo.com/news/us-stocks-wall-st-set-142358524.html?.tsrc=rss",
+    "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+    "language": "en",
+    "published_at": "2022-12-23T14:23:58.000000Z",
+    "source": "finance.yahoo.com",
+    "relevance_score": null,
+    "entities": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NASDAQ",
+        "exchange_long": "NASDAQ Stock Exchange",
+        "country": "us",
+        "type": "equity",
+        "industry": "Consumer Cyclical",
+        "match_score": 22.911877,
+        "sentiment_score": 0.17675,
+        "highlights": [
+          {
+            "highlight": "., UK and European stock markets, click or type LIVE/ in a news window)\n\n*\n\nU.S. consumer spending, inflation slow in November\n\n*\n\n<em>Tesla</em> up, Musk to not sell stock for 2 years\n\n*\n\nFutures down: Dow 0.08%, S&P 0.19%, Nasdaq 0.24%\n\n(Adds details, comments; updates prices throughout)\n\nBy Shubham Batra and Ankika Biswas\n\nDec 23 (Reuters) - Wall Street's",
+            "sentiment": 0,
+            "highlighted_in": "main_text"
+          },
+          {
+            "highlight": "<em>Tesla</em> <em>Inc</em> rose 1.5% in premarket trading after Chief Executive Elon Musk said he will not sell any more shares of the electric-vehicle maker for another two years. (Reporting by Shubham Batra, Amruta Khandekar, Bansari Mayur Kamdar, Ankika Biswas and Johann M Cherian in Bengaluru; Editing by Shounak Dasgupta)",
+            "sentiment": 0.3535,
+            "highlighted_in": "main_text"
+          }
+        ]
+      }
+    ],
+    "similar": []
+  }
+]
